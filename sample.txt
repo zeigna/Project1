@@ -1,0 +1,5 @@
+This is a new file using .txt instead of .text.  
+My name is Sophie and I like to git
+
+I also like python, R, and, of course, my pups!! oops...my daughters too
+
