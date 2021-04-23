@@ -3,3 +3,4 @@ My name is Sophie and I like to git
 
 I also like python, R, and, of course, my pups!! 
 
+I am adding a line here but deleted the first.
